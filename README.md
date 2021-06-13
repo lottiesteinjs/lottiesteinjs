@@ -13,7 +13,7 @@
 
 ## _aeya bot! 🌈_
 first of all aeya bot is my first (might be my only) project :D 
-- aeyabot is a kpop-card bot game and is currently in beta. 
+- aeyabot is a kpop, cpop, jpop etc. card bot game and is currently in beta. 
 - she is mostly cute pastel-themed!
 - you can collect your favourite idols and the rest is endless...
 
